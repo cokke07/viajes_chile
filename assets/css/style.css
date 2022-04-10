@@ -1,0 +1,22 @@
+body {
+    font-family: "Cabin", sans-serif;
+    
+}
+
+.header { 
+    /* background-size: cover; */
+    min-height: 50vh;
+ }
+
+ .navbar-nav .nav-link, .navbar-brand{
+    color: white;
+ }
+
+.header .navbar {
+    background-color: transparent !important;  
+}
+
+#quienes-somos{
+    background-color: black !important;
+    color: white !important;
+}
