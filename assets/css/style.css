@@ -4,7 +4,7 @@ body {
 }
 
 .header { 
-    /* background-size: cover; */
+    background-size: cover;
     min-height: 50vh;
  }
 
@@ -27,7 +27,8 @@ body {
 
 /* revisar porque no puedo alargar el icono en horizontal */
 #iconos-largos{
-    margin: 0 auto;
+    width:100%;
+
 }
 
 #destacados{
