@@ -1,11 +1,9 @@
-body {
-    font-family: "Cabin", sans-serif;
-    
-}
 
 .header { 
     background-size: cover;
+    background-color: black;
     min-height: 50vh;
+    width:100%;
  }
 
  .navbar-nav .nav-link, .navbar-brand{
@@ -21,14 +19,8 @@ body {
     color: white !important;
 }
 
-/* #iconos-largos{
-    height: 30px;
-} */
-
-/* revisar porque no puedo alargar el icono en horizontal */
 #iconos-largos{
     width:100%;
-
 }
 
 #destacados{
